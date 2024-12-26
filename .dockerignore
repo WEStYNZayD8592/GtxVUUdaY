@@ -1,0 +1,26 @@
+*
+
+# Files
+!Cargo.lock
+!Cargo.toml
+!Makefile
+!rust-toolchain.toml
+!scripts/ninstall.sh
+!docker-compose/run-tests.sh
+
+# Directories
+!.cargo/
+!.config/
+!compute/
+!compute_tools/
+!control_plane/
+!libs/
+!pageserver/
+!pgxn/
+!proxy/
+!storage_scrubber/
+!safekeeper/
+!storage_broker/
+!storage_controller/
+!vendor/postgres-*/
+!workspace_hack/
